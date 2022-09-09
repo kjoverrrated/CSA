@@ -1,0 +1,51 @@
+
+// hello, everyone. welcome to string method friday. 
+
+// for ease of not having to scour the full page of reference functions, I have provided a quick
+// or maybe detailed
+// explanation of all of them. 
+// maybe it helps with retention, too
+
+
+/*
+STRING CLASS
+*/
+
+//1. 
+String(String str)
+      // makin strings
+
+
+//2. 
+int length()
+// RETURNS LENGTH OF STRING IN INTEGER 
+// ^ (int), refers to the dt this class op's. 
+
+// ex: 
+String name = "Jame";
+int lengthOfString = name.length();
+
+
+// out: 4
+
+
+//3. 
+String substring(int from, int to)
+
+//4.
+String Substring(int from)
+
+//5.
+int indexOf(String str)
+
+//6. 
+boolean equals(String other)
+
+//7. 
+int compareTo(String other)
+
+/*
+INTEGER CLASS
+*/
+
+//1. 
